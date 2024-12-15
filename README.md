@@ -1,28 +1,46 @@
 # Project-3-20224
-For this project, we chose the data visualization track, where our group tells a story using data visualizations based on the progression of electric vehicles over time in the state of Washington. The dataset that we chose shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL). 
 
-Requirements:
-Project must include visualizations. The visualizations can be created with:
-Python (e.g. Matplotlib, Pandas plotting, hvplot)
-JavaScript (e.g. Plotly or Leaflet)
-A Python or JavaScript visualization library that was not covered in class
-Data must be stored in and extracted from at least one database (PostgreSQL, MongoDB, SQLite, etc).
-Your project must include at least one JavaScript OR Python library that we did not cover.
-Your project must be powered by a dataset with at least 100 records.
-Your project must include some level of user-driven interaction, such as:
-HTML menus, dropdowns, and/or textboxes to display JavaScript-powered visualizations
-Flask backend with interactive API routes that serve back Python or JavaScript created plots
-Visualizations created from user-selected filtered data, which could be powered by:
-JavaScript libraries
-Python in Jupyter Notebook
-Command-line Python scripts that save visualizations locally
+## Overview
+This project explores the progression of electric vehicles (EVs) in the state of Washington over time,
+ using data visualizations to tell a story about the rise of electric vehicles.
+  Our dataset, provided by the Washington State Department of Licensing (DOL), 
+  includes records of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) currently registered in the state.
+   The data spans from 1997 to 2023, capturing the growth of EVs as they increasingly compete with traditional gasoline-powered vehicles.
 
-Overview:
-We chose this topic in order to highlight the rise of electric vehicles from 1997 through 2024. Electric vehicles have become a very hot topic of discussion in recent years as they continue to compete with the gas fueled cars market. 
+## Requirements:
+Our project will include visualizations created using:
 
-References:
-https://www.epa.gov/greenvehicles/electric-vehicle-myths
-https://www.carnegiecouncil.org/media/article/ethics-geopolitics-electic-vehicle-transition
-https://libraetd.lib.virginia.edu/downloads/0z708x94w?filename=Link_John_STS_Research_Paper.pdf
-https://leafletjs.com/index.html
-https://leafletjs.com/examples/quick-start/
+- Python (e.g., Matplotlib, Pandas plotting, hvplot)
+- JavaScript (e.g., Plotly or Leaflet)
+- A Python or JavaScript visualization library that was not covered in class 
+
+- The data will be stored in and extracted from at least one database (e.g., PostgreSQL, MongoDB, SQLite).
+
+- Our project will also feature at least one JavaScript or Python library that was not covered in class.
+
+- Our project will be powered by a dataset containing at least 100 records.
+
+
+## Our project will include some level of user-driven interaction, such as:
+
+- HTML menus, dropdowns, and/or textboxes to display JavaScript-powered visualizations
+
+- Flask backend with interactive API routes that serve back Python or JavaScript created plots
+
+
+## Visualizations created from user-selected filtered data, which could be powered by:
+
+- JavaScript libraries
+- Python in Jupyter Notebook
+- Command-line Python scripts that save visualizations locally
+
+
+## References:
+
+- https://www.epa.gov/greenvehicles/electric-vehicle-myths
+- https://www.carnegiecouncil.org/media/article/ethics-geopolitics-electic-vehicle-transition
+- https://libraetd.lib.virginia.edu/downloads/0z708x94w?filename=Link_John_STS_Research_Paper.pdf
+- https://leafletjs.com/index.html
+- https://leafletjs.com/examples/quick-start/
+
+
