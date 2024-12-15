@@ -14,7 +14,7 @@ Our project will include visualizations created using:
 - JavaScript (e.g., Plotly or Leaflet)
 - A Python or JavaScript visualization library that was not covered in class 
 
-- The data will be stored in and extracted from at least one database (e.g., PostgreSQL, MongoDB, SQLite).
+### The data will be stored in and extracted from at least one database (e.g., PostgreSQL, MongoDB, SQLite).
 
 - Our project will also feature at least one JavaScript or Python library that was not covered in class.
 
