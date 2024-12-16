@@ -43,4 +43,13 @@ Our project will include visualizations created using:
 - https://leafletjs.com/index.html
 - https://leafletjs.com/examples/quick-start/
 
+## Ethical Considerations
+
+In this project, we ensured ethical practices by:
+- Using publicly available sample data and avoiding the inclusion of sensitive or proprietary information.
+- Ensuring transparency in the data's origin and its limitations.
+- Following best practices in coding and documentation to ensure the project can be used responsibly by others.
+- Avoiding data bias by providing a diverse dataset representing different manufacturers and vehicle types.
+
+As data plays a pivotal role in decision-making, this project emphasizes the importance of ethical data usage and integrity. Users are encouraged to apply the same ethical standards when using or expanding upon this project.
 
