@@ -47,7 +47,7 @@ ________________________________________
 
   •	Open the Jupyter Notebooks:
   Project3.ipynb,
-  01_etl_csv_sqlite.ipynb
+
 
    •	Follow the instructions in the notebooks to load data and interact with the database.
     Verify the Results
