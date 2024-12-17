@@ -28,7 +28,9 @@ Provide additional insights for selected data points.
 ________________________________________
 ## Setup Instructions
 1. Environment Setup
+2. 
 •	Ensured Python and PostgreSQL are installed.
+
 •	Install required libraries, including Pandas, Plotly, SQLAlchemy, D3.js, and Leaflet.js.
 ________________________________________
 2. Database Setup
