@@ -52,16 +52,26 @@ The interactive map displays EV population trends dynamically.
 ________________________________________
 Project Requirements Checklist
 Requirement	Status
-Dataset contains at least 100 unique records	•	128,140 unique records
+Dataset contains at least 100 unique records	------ 128,140 unique records
+
 Data stored in a database (SQL)	•	PostgreSQL integration
+
 README includes project overview	•	Included
+
 Instructions for use and interaction	•	Provided
+
 Ethical considerations included	•	Addressed
+
 References to data sources and external code	•	Cited
+
 Three unique data visualizations	•	Bar chart, metadata viewer, and map
+
 Visualizations are clear and digestible	•	Easy-to-understand charts
+
 User interaction via dropdowns and filters	•	Dropdowns and dynamic map
+
 Runs without errors	•	Tested and functional
+
 Use of external libraries not shown in class	•	Seaborn & plotly.express
 ________________________________________
 Future Enhancements
