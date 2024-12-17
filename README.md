@@ -1,7 +1,7 @@
 # Electric Refueling - Green Energy / Save Planet
 ## Introduction
 This project analyzes electric vehicle (EV) registrations, trends, and geographic hotspots within Washington state to uncover local growth patterns and market insights. The goal is to highlight how the adoption of green energy vehicles has progressed over time and to compare EV trends with traditional gas-fueled vehicles.
-The dataset contains 12,140 unique records spanning 1997 to 2024, providing valuable insights into EV adoption. The project uses interactive data visualization techniques and Python-based interactivity to tell a clear and compelling data story.
+The dataset contains 128,140 unique records spanning 1997 to 2024, providing valuable insights into EV adoption. The project uses interactive data visualization techniques and Python-based interactivity to tell a clear and compelling data story.
 ________________________________________
 ## Project Purpose
 ### The primary objectives of this project are:
