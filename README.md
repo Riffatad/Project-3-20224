@@ -67,9 +67,7 @@ Use the dashboard and map to interact with the EV data:
 Dropdown menus allow VIN-based analysis.
 The interactive map displays EV population trends dynamically.
 ________________________________________
-### Project Requirements Checklist
-
-/Requirement	Status
+### Project Requirements Checklist /Requirement	Status
 
 Dataset contains at least 100 unique records 	• 128,140 unique records
 
