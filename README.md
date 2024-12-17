@@ -1,38 +1,88 @@
-# Project-3-20224
-
-## Overview
-This project explores the progression of electric vehicles (EVs) in the state of Washington over time,
- using data visualizations to tell a story about the rise of electric vehicles.
-  Our dataset, provided by the Washington State Department of Licensing (DOL), 
-  includes records of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) currently registered in the state.
-   The data spans from 1997 to 2023, capturing the growth of EVs as they increasingly compete with traditional gasoline-powered vehicles.
-
-## Requirements:
-Our project will include visualizations created using:
-
-- Python (e.g., Matplotlib, Pandas plotting, hvplot)
-- JavaScript (e.g., Plotly or Leaflet)
-- A Python or JavaScript visualization library that was not covered in class 
-
-### The data will be stored in and extracted from at least one database (e.g., PostgreSQL, MongoDB, SQLite).
-
-- Our project will also feature at least one JavaScript or Python library that was not covered in class.
-
-- Our project will be powered by a dataset containing at least 100 records.
-
-
-## Our project will include some level of user-driven interaction, such as:
-
-- HTML menus, dropdowns, and/or textboxes to display JavaScript-powered visualizations
-
-- Flask backend with interactive API routes that serve back Python or JavaScript created plots
-
-
-## Visualizations created from user-selected filtered data, which could be powered by:
-
-- JavaScript libraries
-- Python in Jupyter Notebook
-- Command-line Python scripts that save visualizations locally
+# Electric Refueling - Green Energy / Save Planet
+## Introduction
+This project analyzes electric vehicle (EV) registrations, trends, and geographic hotspots within Washington state to uncover local growth patterns and market insights. The goal is to highlight how the adoption of green energy vehicles has progressed over time and to compare EV trends with traditional gas-fueled vehicles.
+The dataset contains 12,140 unique records spanning 1997 to 2024, providing valuable insights into EV adoption. The project uses interactive data visualization techniques and Python-based interactivity to tell a clear and compelling data story.
+________________________________________
+## Project Purpose
+### The primary objectives of this project are:
+1.	To visualize EV adoption trends over time using dynamic bar charts and geographic maps.
+2.	To provide actionable insights into EV market hotspots and growth in Washington state.
+3.	To encourage awareness and adoption of green energy vehicles as part of a broader sustainability effort.
+________________________________________
+## Features
+### Data Visualizations
+The project includes three unique visualizations:
+1.	Interactive Bar Chart:
+o	Compares the electric range of selected vehicles based on their VINs.
+2.	Detailed Metadata Viewer:
+o	Displays key vehicle attributes such as Make, Model, Year, and Electric Range.
+3.	EV Population Map:
+o	Visualizes EV adoption across counties using dynamic markers that scale in size and color.
+User Interaction
+•	Dropdown Menus:
+o	Select up to 5 VINs dynamically to explore vehicle attributes in the EV Dashboard.
+•	Interactive Map:
+o	Clickable markers display EV population details for each county.
+•	Tooltips and Popups:
+o	Provide additional insights for selected data points.
+________________________________________
+## Setup Instructions
+1. Environment Setup
+•	Ensure Python and PostgreSQL are installed.
+•	Install required libraries, including Pandas, Plotly, SQLAlchemy, D3.js, and Leaflet.js.
+________________________________________
+2. Database Setup
+•	Save the EV data as a CSV file (e.g., ev_data.csv).
+•	Use the provided initialize_db.sql script to:
+o	Create the database schema.
+o	Import data into PostgreSQL using the COPY command.
+________________________________________
+3. Data Preparation
+•	Open the Project3.ipynb Jupyter Notebook.
+•	Follow the steps to:
+o	Clean and preprocess the dataset.
+o	Analyze trends such as EV growth over time.
+o	Export the cleaned data for frontend visualizations.
+________________________________________
+4. Running the Project
+1.	Clone the project repository.
+2.	Open the index.html file in any modern browser.
+3.	Use the dashboard and map to interact with the EV data:
+o	Dropdown menus allow VIN-based analysis.
+o	The interactive map displays EV population trends dynamically.
+_______________________________________
+References
+Data Sources
+•	EV data sourced from publicly available Washington State records.
+•	Dataset spans EV registrations from 1997 to 2024.
+Libraries and Tools
+•	Frontend: D3.js, Leaflet.js, Plotly.js
+•	Backend: PostgreSQL, SQLAlchemy, Pandas, Matplotlib
+•	Data Visualization: Plotly.js, Seaborn, and Leaflet.js for geographic mapping.
+External Code
+•	Map and visualization components utilize code structures inspired by the Leaflet and Plotly documentation, adapted for project requirements.
+________________________________________
+Project Requirements Checklist
+Requirement	Status
+Dataset contains at least 100 unique records	•	128,140 unique records
+Data stored in a database (SQL)	•	PostgreSQL integration
+README includes project overview	•	Included
+Instructions for use and interaction	•	Provided
+Ethical considerations included	•	Addressed
+References to data sources and external code	•	Cited
+Three unique data visualizations	•	Bar chart, metadata viewer, and map
+Visualizations are clear and digestible	•	Easy-to-understand charts
+User interaction via dropdowns and filters	•	Dropdowns and dynamic map
+Runs without errors	•	Tested and functional
+Use of external libraries not shown in class	•	Seaborn & plotly.express
+________________________________________
+Future Enhancements
+•	Add filtering options to analyze EV data by Make, Model, or Year.
+•	Integrate real-time data for EV registrations.
+•	Include EV charging station locations on the map.
+________________________________________
+Objective
+This project uses data visualization to promote the adoption of green energy vehicles and contribute to a sustainable, eco-friendly future. It highlights key trends in EV adoption, identifies geographic hotspots, and provides meaningful insights for all audiences.
 
 
 ## References:
@@ -45,11 +95,7 @@ Our project will include visualizations created using:
 
 ## Ethical Considerations
 
-In this project, we ensured ethical practices by:
-- Using publicly available sample data and avoiding the inclusion of sensitive or proprietary information.
-- Ensuring transparency in the data's origin and its limitations.
-- Following best practices in coding and documentation to ensure the project can be used responsibly by others.
-- Avoiding data bias by providing a diverse dataset representing different manufacturers and vehicle types.
-
-As data plays a pivotal role in decision-making, this project emphasizes the importance of ethical data usage and integrity. Users are encouraged to apply the same ethical standards when using or expanding upon this project.
-
+IEthical Considerations
+This project adheres to ethical practices by ensuring that all data used is publicly available and devoid of sensitive or proprietary information. Transparency is maintained by clearly citing 
+data sources, acknowledging code references, and openly sharing project limitations. Efforts were made to uphold data accuracy and integrity by cleaning the dataset, removing duplicates, and handling missing values responsibly. The dataset is diverse, representing various manufacturers and vehicle types to minimize bias.
+The project respects privacy by excluding any personal identifiable information (PII) and focuses on promoting sustainability by providing actionable insights to encourage the adoption of eco-friendly vehicles. By following the best practices in coding and documentation, this project enables responsible use and further development. As data plays a pivotal role in decision-making, this project emphasizes the importance of ethical data usage and integrity, encouraging users to uphold these standards when building upon or using this work.
