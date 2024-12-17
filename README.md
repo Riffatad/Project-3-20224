@@ -49,17 +49,6 @@ Open the index.html file in any modern browser.
 Use the dashboard and map to interact with the EV data:
 Dropdown menus allow VIN-based analysis.
 The interactive map displays EV population trends dynamically.
-_______________________________________
-References
-Data Sources
-•	EV data sourced from publicly available Washington State records.
-•	Dataset spans EV registrations from 1997 to 2023.
-Libraries and Tools
-•	Frontend: D3.js, Leaflet.js, Plotly.js
-•	Backend: PostgreSQL, SQLAlchemy, Pandas, Matplotlib
-•	Data Visualization: Plotly.js, Seaborn, and Leaflet.js for geographic mapping.
-External Code
-•	Map and visualization components utilize code structures inspired by the Leaflet and Plotly documentation, adapted for project requirements.
 ________________________________________
 Project Requirements Checklist
 Requirement	Status
