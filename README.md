@@ -28,24 +28,24 @@ o	Provide additional insights for selected data points.
 ________________________________________
 ## Setup Instructions
 1. Environment Setup
-•	Ensure Python and PostgreSQL are installed.
+•	Ensured Python and PostgreSQL are installed.
 •	Install required libraries, including Pandas, Plotly, SQLAlchemy, D3.js, and Leaflet.js.
 ________________________________________
 2. Database Setup
-•	Save the EV data as a CSV file (e.g., ev_data.csv).
-•	Use the provided initialize_db.sql script to:
-o	Create the database schema.
-o	Import data into PostgreSQL using the COPY command.
+•	Saved the EV data as a CSV file (e.g., ev_data.csv).
+•	Used the provided initialize_db.sql script to:
+Created the database schema.
+Imported data into PostgreSQL using the COPY command.
 ________________________________________
 3. Data Preparation
-•	Open the Project3.ipynb Jupyter Notebook.
-•	Follow the steps to:
-o	Clean and preprocess the dataset.
-o	Analyze trends such as EV growth over time.
-o	Export the cleaned data for frontend visualizations.
+•	Opened the Project3.ipynb Jupyter Notebook.
+•	Followed the steps to:
+Cleaned and preprocess the dataset.
+Analyzed trends such as EV growth over time.
+Exported the cleaned data for frontend visualizations.
 ________________________________________
 4. Running the Project
-1.	Clone the project repository.
+1.	Cloned the project repository.
 2.	Open the index.html file in any modern browser.
 3.	Use the dashboard and map to interact with the EV data:
 o	Dropdown menus allow VIN-based analysis.
@@ -54,7 +54,7 @@ _______________________________________
 References
 Data Sources
 •	EV data sourced from publicly available Washington State records.
-•	Dataset spans EV registrations from 1997 to 2024.
+•	Dataset spans EV registrations from 1997 to 2023.
 Libraries and Tools
 •	Frontend: D3.js, Leaflet.js, Plotly.js
 •	Backend: PostgreSQL, SQLAlchemy, Pandas, Matplotlib
@@ -86,6 +86,15 @@ This project uses data visualization to promote the adoption of green energy veh
 
 
 ## References:
+### Data Sources
+•	EV data sourced from publicly available Washington State records.
+•	Dataset spans EV registrations from 1997 to 2023.
+### Libraries and Tools
+•	Frontend: D3.js, Leaflet.js, Plotly.js
+•	Backend: PostgreSQL, SQLAlchemy, Pandas, Matplotlib
+•	Data Visualization: Plotly.js, Seaborn, and Leaflet.js for geographic mapping.
+### External Code
+•	Map and visualization components utilize code structures inspired by the Leaflet and Plotly documentation, adapted for project requirements.
 
 - https://www.epa.gov/greenvehicles/electric-vehicle-myths
 - https://www.carnegiecouncil.org/media/article/ethics-geopolitics-electic-vehicle-transition
