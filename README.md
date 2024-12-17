@@ -43,6 +43,7 @@ Project3.ipynb
 
 •	Follow the instructions in the notebooks to load data and interact with the database.
  Verify the Results
+ 
 •	Query the database to ensure the data has been loaded and processed correctly.
 _______________________________________
 3. Data Preparation
