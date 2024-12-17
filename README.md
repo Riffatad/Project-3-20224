@@ -32,11 +32,16 @@ ________________________________________
 •	Install required libraries, including Pandas, Plotly, SQLAlchemy, D3.js, and Leaflet.js.
 ________________________________________
 2. Database Setup
-•	Saved the EV data as a CSV file (e.g., ev_data.csv).
-•	Used the provided initialize_db.sql script to:
-Created the database schema.
-Imported data into PostgreSQL using the COPY command.
-________________________________________
+•	Place the CSV files in the project directory 
+•	Run that 01_etl_csv_sqlite.ipynb to create Db file in clean data
+Run the Notebooks
+•	Open the Jupyter Notebooks:
+Project3.ipynb
+01_etl_csv_sqlite.ipynb
+•	Follow the instructions in the notebooks to load data and interact with the database.
+ Verify the Results
+•	Query the database to ensure the data has been loaded and processed correctly.
+_______________________________________
 3. Data Preparation
 •	Opened the Project3.ipynb Jupyter Notebook.
 •	Followed the steps to:
