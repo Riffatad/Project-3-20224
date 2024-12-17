@@ -45,11 +45,10 @@ Analyzed trends such as EV growth over time.
 Exported the cleaned data for frontend visualizations.
 ________________________________________
 4. Running the Project
-1.	Cloned the project repository.
-2.	Open the index.html file in any modern browser.
-3.	Use the dashboard and map to interact with the EV data:
-o	Dropdown menus allow VIN-based analysis.
-o	The interactive map displays EV population trends dynamically.
+Open the index.html file in any modern browser.
+Use the dashboard and map to interact with the EV data:
+Dropdown menus allow VIN-based analysis.
+The interactive map displays EV population trends dynamically.
 _______________________________________
 References
 Data Sources
