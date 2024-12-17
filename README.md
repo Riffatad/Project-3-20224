@@ -69,10 +69,6 @@ Future Enhancements
 •	Integrate real-time data for EV registrations.
 •	Include EV charging station locations on the map.
 ________________________________________
-Objective
-This project uses data visualization to promote the adoption of green energy vehicles and contribute to a sustainable, eco-friendly future. It highlights key trends in EV adoption, identifies geographic hotspots, and provides meaningful insights for all audiences.
-
-
 ## References:
 ### Data Sources
 •	EV data sourced from publicly available Washington State records.
@@ -91,8 +87,9 @@ This project uses data visualization to promote the adoption of green energy veh
 - https://leafletjs.com/examples/quick-start/
 
 ## Ethical Considerations
-
-IEthical Considerations
 This project adheres to ethical practices by ensuring that all data used is publicly available and devoid of sensitive or proprietary information. Transparency is maintained by clearly citing 
 data sources, acknowledging code references, and openly sharing project limitations. Efforts were made to uphold data accuracy and integrity by cleaning the dataset, removing duplicates, and handling missing values responsibly. The dataset is diverse, representing various manufacturers and vehicle types to minimize bias.
 The project respects privacy by excluding any personal identifiable information (PII) and focuses on promoting sustainability by providing actionable insights to encourage the adoption of eco-friendly vehicles. By following the best practices in coding and documentation, this project enables responsible use and further development. As data plays a pivotal role in decision-making, this project emphasizes the importance of ethical data usage and integrity, encouraging users to uphold these standards when building upon or using this work.
+# Conclusion:
+This project uses data visualization to promote the adoption of green energy vehicles and contribute to a sustainable, eco-friendly future. It highlights key trends in EV adoption, identifies geographic hotspots, and provides meaningful insights for all audiences.
+
