@@ -63,6 +63,7 @@ The interactive map displays EV population trends dynamically.
 ________________________________________
 Project Requirements Checklist
 Requirement	Status
+
 Dataset contains at least 100 unique records 	• 128,140 unique records
 
 Data stored in a database (SQL)	•	PostgreSQL integration
