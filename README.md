@@ -12,17 +12,23 @@ ________________________________________
 ## Features
 ### Data Visualizations
 The project includes three unique visualizations:
+
 1.	Interactive Bar Chart:
 Compares the electric range of selected vehicles based on their VINs.
-2.	Detailed Metadata Viewer:
+
+3.	Detailed Metadata Viewer:
 Displays key vehicle attributes such as Make, Model, Year, and Electric Range.
-3.	EV Population Map:
+
+5.	EV Population Map:
 Visualizes EV adoption across counties using dynamic markers that scale in size and color.
+
 User Interaction
 •	Dropdown Menus:
 Select up to 5 VINs dynamically to explore vehicle attributes in the EV Dashboard.
+
 •	Interactive Map:
 Clickable markers display EV population details for each county.
+
 •	Tooltips and Popups:
 Provide additional insights for selected data points.
 ________________________________________
