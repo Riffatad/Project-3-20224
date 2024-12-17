@@ -1,7 +1,7 @@
 # Electric Refueling - Green Energy / Save Planet
 ## Introduction
 This project analyzes electric vehicle (EV) registrations, trends, and geographic hotspots within Washington state to uncover local growth patterns and market insights. The goal is to highlight how the adoption of green energy vehicles has progressed over time and to compare EV trends with traditional gas-fueled vehicles.
-The dataset contains 12,140 unique records spanning 1997 to 2024, providing valuable insights into EV adoption. The project uses interactive data visualization techniques and Python-based interactivity to tell a clear and compelling data story.
+The dataset contains 128,140 unique records spanning 1997 to 2024, providing valuable insights into EV adoption. The project uses interactive data visualization techniques and Python-based interactivity to tell a clear and compelling data story.This project utilized the Data Visualization Track for interactivity.
 ________________________________________
 ## Project Purpose
 ### The primary objectives of this project are:
@@ -12,39 +12,47 @@ ________________________________________
 ## Features
 ### Data Visualizations
 The project includes three unique visualizations:
+
 1.	Interactive Bar Chart:
 Compares the electric range of selected vehicles based on their VINs.
-2.	Detailed Metadata Viewer:
+
+3.	Detailed Metadata Viewer:
 Displays key vehicle attributes such as Make, Model, Year, and Electric Range.
-3.	EV Population Map:
+
+5.	EV Population Map:
 Visualizes EV adoption across counties using dynamic markers that scale in size and color.
+
 User Interaction
 •	Dropdown Menus:
 Select up to 5 VINs dynamically to explore vehicle attributes in the EV Dashboard.
+
 •	Interactive Map:
 Clickable markers display EV population details for each county.
+
 •	Tooltips and Popups:
 Provide additional insights for selected data points.
 ________________________________________
 ## Setup Instructions
 1. Environment Setup
-•	Ensured Python and PostgreSQL are installed.
-•	Install required libraries, including Pandas, Plotly, SQLAlchemy, D3.js, and Leaflet.js.
+
+  •	Ensured Python and PostgreSQL are installed.
+
+  •	Install required libraries, including Pandas, Plotly, SQLAlchemy, D3.js, and Leaflet.js.
 ________________________________________
 2. Database Setup
-•	Place the CSV files in the project directory
+  •	Place the CSV files in the project directory
 
-•	Run that 01_etl_csv_sqlite.ipynb to create Db file in clean data
-Run the Notebooks
+  •	Run that 01_etl_csv_sqlite.ipynb to create Db file in clean data
+  Run the Notebooks
 
-•	Open the Jupyter Notebooks:
-Project3.ipynb
-01_etl_csv_sqlite.ipynb
+  •	Open the Jupyter Notebooks:
+  Project3.ipynb,
 
-•	Follow the instructions in the notebooks to load data and interact with the database.
- Verify the Results
+
+   •	Follow the instructions in the notebooks to load data and interact with the database.
+    Verify the Results
  
-•	Query the database to ensure the data has been loaded and processed correctly.
+   •	Query the database to ensure the data has been loaded and processed correctly.
 _______________________________________
 3. Data Preparation
 •	Opened the Project3.ipynb Jupyter Notebook.
@@ -59,8 +67,8 @@ Use the dashboard and map to interact with the EV data:
 Dropdown menus allow VIN-based analysis.
 The interactive map displays EV population trends dynamically.
 ________________________________________
-Project Requirements Checklist
-Requirement	Status
+### Project Requirements Checklist /Requirement	Status
+
 Dataset contains at least 100 unique records 	• 128,140 unique records
 
 Data stored in a database (SQL)	•	PostgreSQL integration
