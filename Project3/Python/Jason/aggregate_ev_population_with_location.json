@@ -1,0 +1,236 @@
+[
+    {
+        "County": "Kitsap",
+        "EVPopulation": 5909,
+        "Latitude": 47.5798304,
+        "Longitude": -122.8728334
+    },
+    {
+        "County": "King",
+        "EVPopulation": 89048,
+        "Latitude": 47.6099315,
+        "Longitude": -122.3340795
+    },
+    {
+        "County": "Thurston",
+        "EVPopulation": 6536,
+        "Latitude": 46.9095798,
+        "Longitude": -122.5715761
+    },
+    {
+        "County": "Snohomish",
+        "EVPopulation": 20982,
+        "Latitude": 47.812199,
+        "Longitude": -122.287143
+    },
+    {
+        "County": "Yakima",
+        "EVPopulation": 1055,
+        "Latitude": 46.596645,
+        "Longitude": -120.611068
+    },
+    {
+        "County": "Island",
+        "EVPopulation": 1947,
+        "Latitude": 48.3015146,
+        "Longitude": -122.6447164
+    },
+    {
+        "County": "Skagit",
+        "EVPopulation": 1966,
+        "Latitude": 48.4948674,
+        "Longitude": -122.6330168
+    },
+    {
+        "County": "Spokane",
+        "EVPopulation": 4531,
+        "Latitude": 47.658268,
+        "Longitude": -117.428902
+    },
+    {
+        "County": "Clallam",
+        "EVPopulation": 1100,
+        "Latitude": 48.0805816,
+        "Longitude": -123.1090862
+    },
+    {
+        "County": "Walla Walla",
+        "EVPopulation": 453,
+        "Latitude": 46.0448318,
+        "Longitude": -118.3885398
+    },
+    {
+        "County": "Chelan",
+        "EVPopulation": 1098,
+        "Latitude": 47.7095564,
+        "Longitude": -120.6860209
+    },
+    {
+        "County": "Kittitas",
+        "EVPopulation": 668,
+        "Latitude": 47.005576,
+        "Longitude": -120.5264946
+    },
+    {
+        "County": "Whitman",
+        "EVPopulation": 341,
+        "Latitude": 46.7329687,
+        "Longitude": -117.1770648
+    },
+    {
+        "County": "Stevens",
+        "EVPopulation": 228,
+        "Latitude": 48.6308016,
+        "Longitude": -118.0710369
+    },
+    {
+        "County": "Grant",
+        "EVPopulation": 619,
+        "Latitude": 47.3078143,
+        "Longitude": -119.5617154
+    },
+    {
+        "County": "Clark",
+        "EVPopulation": 10451,
+        "Latitude": 45.887713,
+        "Longitude": -122.631475
+    },
+    {
+        "County": "Cowlitz",
+        "EVPopulation": 947,
+        "Latitude": 46.15445,
+        "Longitude": -122.973463
+    },
+    {
+        "County": "Jefferson",
+        "EVPopulation": 1007,
+        "Latitude": 48.1129794,
+        "Longitude": -122.7862046
+    },
+    {
+        "County": "Klickitat",
+        "EVPopulation": 304,
+        "Latitude": 45.718776,
+        "Longitude": -121.474097
+    },
+    {
+        "County": "Pierce",
+        "EVPopulation": 13639,
+        "Latitude": 47.2298959,
+        "Longitude": -122.538546
+    },
+    {
+        "County": "Franklin",
+        "EVPopulation": 611,
+        "Latitude": 46.2546529,
+        "Longitude": -119.1429639
+    },
+    {
+        "County": "Whatcom",
+        "EVPopulation": 4347,
+        "Latitude": 48.9071317,
+        "Longitude": -122.3616332
+    },
+    {
+        "County": "San Juan",
+        "EVPopulation": 946,
+        "Latitude": 48.5327669,
+        "Longitude": -123.0679454
+    },
+    {
+        "County": "Columbia",
+        "EVPopulation": 13,
+        "Latitude": 46.3125369,
+        "Longitude": -117.9665373
+    },
+    {
+        "County": "Grays Harbor",
+        "EVPopulation": 669,
+        "Latitude": 46.9755669,
+        "Longitude": -124.154452
+    },
+    {
+        "County": "Lewis",
+        "EVPopulation": 762,
+        "Latitude": 46.646505,
+        "Longitude": -122.951758
+    },
+    {
+        "County": "Benton",
+        "EVPopulation": 2209,
+        "Latitude": 46.3041837,
+        "Longitude": -119.2905959
+    },
+    {
+        "County": "Pacific",
+        "EVPopulation": 213,
+        "Latitude": 46.375408,
+        "Longitude": -124.035084
+    },
+    {
+        "County": "Mason",
+        "EVPopulation": 835,
+        "Latitude": 47.3109134,
+        "Longitude": -122.8856368
+    },
+    {
+        "County": "Douglas",
+        "EVPopulation": 349,
+        "Latitude": 47.7713817,
+        "Longitude": -120.1436679
+    },
+    {
+        "County": "Wahkiakum",
+        "EVPopulation": 63,
+        "Latitude": 46.2005992,
+        "Longitude": -123.38228
+    },
+    {
+        "County": "Okanogan",
+        "EVPopulation": 274,
+        "Latitude": 48.4862039,
+        "Longitude": -120.2222424
+    },
+    {
+        "County": "Skamania",
+        "EVPopulation": 192,
+        "Latitude": 45.6906452,
+        "Longitude": -121.8995658
+    },
+    {
+        "County": "Garfield",
+        "EVPopulation": 3,
+        "Latitude": 46.475802,
+        "Longitude": -117.5975192
+    },
+    {
+        "County": "Pend Oreille",
+        "EVPopulation": 55,
+        "Latitude": 48.150501,
+        "Longitude": -117.164316
+    },
+    {
+        "County": "Asotin",
+        "EVPopulation": 73,
+        "Latitude": 46.396152,
+        "Longitude": -117.08094
+    },
+    {
+        "County": "Lincoln",
+        "EVPopulation": 49,
+        "Latitude": 47.722719,
+        "Longitude": -118.186805
+    },
+    {
+        "County": "Adams",
+        "EVPopulation": 55,
+        "Latitude": 46.8171276,
+        "Longitude": -119.1988575
+    },
+    {
+        "County": "Ferry",
+        "EVPopulation": 32,
+        "Latitude": 48.6800124,
+        "Longitude": -118.7238101
+    }
+]

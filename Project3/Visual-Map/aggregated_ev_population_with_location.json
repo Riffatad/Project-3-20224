@@ -1,0 +1,1232 @@
+[
+    {
+        "County": "Kitsap",
+        "EVPopulation": 6848,
+        "Latitude": 47.5798304,
+        "Longitude": -122.8728334
+    },
+    {
+        "County": "King",
+        "EVPopulation": 105237,
+        "Latitude": 47.6099315,
+        "Longitude": -122.3340795
+    },
+    {
+        "County": "Thurston",
+        "EVPopulation": 7526,
+        "Latitude": 46.9095798,
+        "Longitude": -122.5715761
+    },
+    {
+        "County": "Snohomish",
+        "EVPopulation": 24721,
+        "Latitude": 47.812199,
+        "Longitude": -122.287143
+    },
+    {
+        "County": "Yakima",
+        "EVPopulation": 1225,
+        "Latitude": 46.596645,
+        "Longitude": -120.611068
+    },
+    {
+        "County": "Island",
+        "EVPopulation": 2206,
+        "Latitude": 48.3015146,
+        "Longitude": -122.6447164
+    },
+    {
+        "County": "Skagit",
+        "EVPopulation": 2266,
+        "Latitude": 48.4948674,
+        "Longitude": -122.6330168
+    },
+    {
+        "County": "Spokane",
+        "EVPopulation": 5460,
+        "Latitude": 47.658268,
+        "Longitude": -117.428902
+    },
+    {
+        "County": "Clallam",
+        "EVPopulation": 1217,
+        "Latitude": 48.0805816,
+        "Longitude": -123.1090862
+    },
+    {
+        "County": "Chelan",
+        "EVPopulation": 1238,
+        "Latitude": 47.8988976,
+        "Longitude": -120.147741
+    },
+    {
+        "County": "Walla Walla",
+        "EVPopulation": 524,
+        "Latitude": 46.0448318,
+        "Longitude": -118.3885398
+    },
+    {
+        "County": "Kittitas",
+        "EVPopulation": 761,
+        "Latitude": 47.005576,
+        "Longitude": -120.5264946
+    },
+    {
+        "County": "Whitman",
+        "EVPopulation": 397,
+        "Latitude": 46.7329687,
+        "Longitude": -117.1770648
+    },
+    {
+        "County": "Stevens",
+        "EVPopulation": 249,
+        "Latitude": 48.6308016,
+        "Longitude": -118.0710369
+    },
+    {
+        "County": "Grant",
+        "EVPopulation": 709,
+        "Latitude": 47.3078143,
+        "Longitude": -119.5617154
+    },
+    {
+        "County": "Douglas",
+        "EVPopulation": 418,
+        "Latitude": 47.7713817,
+        "Longitude": -120.1436679
+    },
+    {
+        "County": "Clark",
+        "EVPopulation": 12231,
+        "Latitude": 45.887713,
+        "Longitude": -122.631475
+    },
+    {
+        "County": "Cowlitz",
+        "EVPopulation": 1066,
+        "Latitude": 46.15445,
+        "Longitude": -122.973463
+    },
+    {
+        "County": "Jefferson",
+        "EVPopulation": 1116,
+        "Latitude": 48.1129794,
+        "Longitude": -122.7862046
+    },
+    {
+        "County": "Klickitat",
+        "EVPopulation": 341,
+        "Latitude": 45.718776,
+        "Longitude": -121.474097
+    },
+    {
+        "County": "Pierce",
+        "EVPopulation": 16197,
+        "Latitude": 47.2298959,
+        "Longitude": -122.538546
+    },
+    {
+        "County": "Franklin",
+        "EVPopulation": 696,
+        "Latitude": 46.2546529,
+        "Longitude": -119.1429639
+    },
+    {
+        "County": "Whatcom",
+        "EVPopulation": 4978,
+        "Latitude": 48.9071317,
+        "Longitude": -122.3616332
+    },
+    {
+        "County": "San Juan",
+        "EVPopulation": 1036,
+        "Latitude": 48.5327669,
+        "Longitude": -123.0679454
+    },
+    {
+        "County": "Columbia",
+        "EVPopulation": 15,
+        "Latitude": 46.3125369,
+        "Longitude": -117.9665373
+    },
+    {
+        "County": "Grays Harbor",
+        "EVPopulation": 753,
+        "Latitude": 46.9755669,
+        "Longitude": -124.154452
+    },
+    {
+        "County": "Lewis",
+        "EVPopulation": 930,
+        "Latitude": 46.646505,
+        "Longitude": -122.951758
+    },
+    {
+        "County": "Benton",
+        "EVPopulation": 2546,
+        "Latitude": 46.3041837,
+        "Longitude": -119.2905959
+    },
+    {
+        "County": "Pacific",
+        "EVPopulation": 241,
+        "Latitude": 46.375408,
+        "Longitude": -124.035084
+    },
+    {
+        "County": "Mason",
+        "EVPopulation": 947,
+        "Latitude": 47.3109134,
+        "Longitude": -122.8856368
+    },
+    {
+        "County": "Platte",
+        "EVPopulation": 1,
+        "Latitude": 39.3549561,
+        "Longitude": -94.7758051
+    },
+    {
+        "County": "Monterey",
+        "EVPopulation": 6,
+        "Latitude": 36.614732,
+        "Longitude": -121.831434
+    },
+    {
+        "County": "Wahkiakum",
+        "EVPopulation": 70,
+        "Latitude": 46.2005992,
+        "Longitude": -123.38228
+    },
+    {
+        "County": "Norfolk",
+        "EVPopulation": 1,
+        "Latitude": 36.942546,
+        "Longitude": -76.251684
+    },
+    {
+        "County": "Okanogan",
+        "EVPopulation": 316,
+        "Latitude": 48.4862039,
+        "Longitude": -120.2222424
+    },
+    {
+        "County": "Cumberland",
+        "EVPopulation": 7,
+        "Latitude": 35.019816,
+        "Longitude": -78.780926
+    },
+    {
+        "County": "Skamania",
+        "EVPopulation": 214,
+        "Latitude": 45.6906452,
+        "Longitude": -121.8995658
+    },
+    {
+        "County": "Prince George's",
+        "EVPopulation": 4,
+        "Latitude": 38.8903361,
+        "Longitude": -76.8100874
+    },
+    {
+        "County": "Garfield",
+        "EVPopulation": 4,
+        "Latitude": 46.475802,
+        "Longitude": -117.5975192
+    },
+    {
+        "County": "Pend Oreille",
+        "EVPopulation": 63,
+        "Latitude": 48.150501,
+        "Longitude": -117.164316
+    },
+    {
+        "County": "Asotin",
+        "EVPopulation": 83,
+        "Latitude": 46.396152,
+        "Longitude": -117.08094
+    },
+    {
+        "County": "Lincoln",
+        "EVPopulation": 59,
+        "Latitude": 47.722719,
+        "Longitude": -118.186805
+    },
+    {
+        "County": "Adams",
+        "EVPopulation": 65,
+        "Latitude": 46.8171276,
+        "Longitude": -119.1988575
+    },
+    {
+        "County": "San Diego",
+        "EVPopulation": 28,
+        "Latitude": 32.914886,
+        "Longitude": -117.083459
+    },
+    {
+        "County": "Oldham",
+        "EVPopulation": 1,
+        "Latitude": 38.4170989,
+        "Longitude": -85.5643183
+    },
+    {
+        "County": "York",
+        "EVPopulation": 1,
+        "Latitude": 37.112964,
+        "Longitude": -76.434071
+    },
+    {
+        "County": "Orange",
+        "EVPopulation": 6,
+        "Latitude": 33.8710222,
+        "Longitude": -117.9948187
+    },
+    {
+        "County": "Wake",
+        "EVPopulation": 3,
+        "Latitude": 35.776745,
+        "Longitude": -78.63578
+    },
+    {
+        "County": "Los Angeles",
+        "EVPopulation": 13,
+        "Latitude": 33.9019252,
+        "Longitude": -118.3166199
+    },
+    {
+        "County": "Sonoma",
+        "EVPopulation": 2,
+        "Latitude": 38.6171774,
+        "Longitude": -122.8696164
+    },
+    {
+        "County": "Ferry",
+        "EVPopulation": 36,
+        "Latitude": 48.6800124,
+        "Longitude": -118.7238101
+    },
+    {
+        "County": "Churchill",
+        "EVPopulation": 1,
+        "Latitude": 39.4743941,
+        "Longitude": -118.80031
+    },
+    {
+        "County": "DeKalb",
+        "EVPopulation": 2,
+        "Latitude": 33.774551,
+        "Longitude": -84.2937
+    },
+    {
+        "County": "Goochland",
+        "EVPopulation": 1,
+        "Latitude": 37.604068,
+        "Longitude": -77.617505
+    },
+    {
+        "County": "Stafford",
+        "EVPopulation": 3,
+        "Latitude": 38.4429028,
+        "Longitude": -77.4000403
+    },
+    {
+        "County": "Contra Costa",
+        "EVPopulation": 3,
+        "Latitude": 38.0231714,
+        "Longitude": -121.9133498
+    },
+    {
+        "County": "Riverside",
+        "EVPopulation": 4,
+        "Latitude": 33.725296,
+        "Longitude": -117.1627736
+    },
+    {
+        "County": "Loudoun",
+        "EVPopulation": 3,
+        "Latitude": 38.9439999,
+        "Longitude": -77.5724836
+    },
+    {
+        "County": "Allen",
+        "EVPopulation": 2,
+        "Latitude": 41.1477914,
+        "Longitude": -85.1981833
+    },
+    {
+        "County": "James City",
+        "EVPopulation": 1,
+        "Latitude": 37.389275,
+        "Longitude": -76.803958
+    },
+    {
+        "County": "Anne Arundel",
+        "EVPopulation": 9,
+        "Latitude": 38.9259503,
+        "Longitude": -76.541773
+    },
+    {
+        "County": "Madison",
+        "EVPopulation": 2,
+        "Latitude": 38.7052015,
+        "Longitude": -89.7833925
+    },
+    {
+        "County": "Isle of Wight",
+        "EVPopulation": 1,
+        "Latitude": 36.9493325,
+        "Longitude": -76.5390824
+    },
+    {
+        "County": "Leavenworth",
+        "EVPopulation": 3,
+        "Latitude": 39.3520979,
+        "Longitude": -94.9210919
+    },
+    {
+        "County": "Charles",
+        "EVPopulation": 2,
+        "Latitude": 38.535383,
+        "Longitude": -76.773785
+    },
+    {
+        "County": "Sarpy",
+        "EVPopulation": 1,
+        "Latitude": 41.1217288,
+        "Longitude": -95.9518445
+    },
+    {
+        "County": "Kings",
+        "EVPopulation": 5,
+        "Latitude": 40.623183,
+        "Longitude": -74.029804
+    },
+    {
+        "County": "Ventura",
+        "EVPopulation": 5,
+        "Latitude": 34.2319948,
+        "Longitude": -119.0487087
+    },
+    {
+        "County": "San Mateo",
+        "EVPopulation": 3,
+        "Latitude": 37.482324,
+        "Longitude": -122.2168015
+    },
+    {
+        "County": "Sacramento",
+        "EVPopulation": 2,
+        "Latitude": 38.613604,
+        "Longitude": -121.50078
+    },
+    {
+        "County": "Maui",
+        "EVPopulation": 1,
+        "Latitude": 20.7351848,
+        "Longitude": -156.4466081
+    },
+    {
+        "County": "Ada",
+        "EVPopulation": 2,
+        "Latitude": 43.59162,
+        "Longitude": -116.197355
+    },
+    {
+        "County": "Mobile",
+        "EVPopulation": 1,
+        "Latitude": 30.592415,
+        "Longitude": -88.194895
+    },
+    {
+        "County": "District of Columbia",
+        "EVPopulation": 2,
+        "Latitude": 38.9025351,
+        "Longitude": -76.9924566
+    },
+    {
+        "County": "New York",
+        "EVPopulation": 2,
+        "Latitude": 40.776417,
+        "Longitude": -73.982385
+    },
+    {
+        "County": "Multnomah",
+        "EVPopulation": 1,
+        "Latitude": 45.515753,
+        "Longitude": -122.642852
+    },
+    {
+        "County": "Fairfax",
+        "EVPopulation": 19,
+        "Latitude": 38.8966332,
+        "Longitude": -77.256665
+    },
+    {
+        "County": "Wichita",
+        "EVPopulation": 1,
+        "Latitude": 33.843752,
+        "Longitude": -98.5643777
+    },
+    {
+        "County": "El Paso",
+        "EVPopulation": 15,
+        "Latitude": 31.8947073,
+        "Longitude": -106.5687955
+    },
+    {
+        "County": "Honolulu",
+        "EVPopulation": 4,
+        "Latitude": 21.328583,
+        "Longitude": -158.022939
+    },
+    {
+        "County": "Maricopa",
+        "EVPopulation": 10,
+        "Latitude": 33.8321118,
+        "Longitude": -112.103752
+    },
+    {
+        "County": "Montgomery",
+        "EVPopulation": 11,
+        "Latitude": 38.992455,
+        "Longitude": -77.099577
+    },
+    {
+        "County": "Hillsborough",
+        "EVPopulation": 4,
+        "Latitude": 27.83611,
+        "Longitude": -82.145644
+    },
+    {
+        "County": "Do\u00f1a Ana",
+        "EVPopulation": 1,
+        "Latitude": 32.3972002,
+        "Longitude": -106.7307908
+    },
+    {
+        "County": "Autauga",
+        "EVPopulation": 3,
+        "Latitude": 32.481251,
+        "Longitude": -86.488131
+    },
+    {
+        "County": "Berkeley",
+        "EVPopulation": 2,
+        "Latitude": 32.9289547,
+        "Longitude": -80.003757
+    },
+    {
+        "County": "Escambia",
+        "EVPopulation": 1,
+        "Latitude": 30.4083291,
+        "Longitude": -87.3196231
+    },
+    {
+        "County": "Polk",
+        "EVPopulation": 2,
+        "Latitude": 44.9631335,
+        "Longitude": -123.0771613
+    },
+    {
+        "County": "Charleston",
+        "EVPopulation": 2,
+        "Latitude": 32.898233,
+        "Longitude": -80.059581
+    },
+    {
+        "County": "Hamilton",
+        "EVPopulation": 2,
+        "Latitude": 39.1843478,
+        "Longitude": -84.3505013
+    },
+    {
+        "County": "Mercer",
+        "EVPopulation": 1,
+        "Latitude": 40.3563385,
+        "Longitude": -74.649899
+    },
+    {
+        "County": "Solano",
+        "EVPopulation": 5,
+        "Latitude": 38.270839,
+        "Longitude": -121.944912
+    },
+    {
+        "County": "Virginia Beach",
+        "EVPopulation": 6,
+        "Latitude": 36.792714,
+        "Longitude": -76.080818
+    },
+    {
+        "County": "Collin",
+        "EVPopulation": 1,
+        "Latitude": 33.1258525,
+        "Longitude": -96.8316328
+    },
+    {
+        "County": "Harris",
+        "EVPopulation": 4,
+        "Latitude": 29.742182,
+        "Longitude": -95.487445
+    },
+    {
+        "County": "Macomb",
+        "EVPopulation": 1,
+        "Latitude": 42.512487,
+        "Longitude": -83.064593
+    },
+    {
+        "County": "Spotsylvania",
+        "EVPopulation": 1,
+        "Latitude": 38.2478282,
+        "Longitude": -77.4794317
+    },
+    {
+        "County": "Marion",
+        "EVPopulation": 2,
+        "Latitude": 41.4115429,
+        "Longitude": -92.9164092
+    },
+    {
+        "County": "Newport",
+        "EVPopulation": 2,
+        "Latitude": 41.514449,
+        "Longitude": -71.286061
+    },
+    {
+        "County": "Hoke",
+        "EVPopulation": 1,
+        "Latitude": 35.0036592,
+        "Longitude": -79.1910647
+    },
+    {
+        "County": "Laramie",
+        "EVPopulation": 1,
+        "Latitude": 41.1442461,
+        "Longitude": -104.7952484
+    },
+    {
+        "County": "Santa Clara",
+        "EVPopulation": 11,
+        "Latitude": 37.318549,
+        "Longitude": -122.036749
+    },
+    {
+        "County": "Marin",
+        "EVPopulation": 2,
+        "Latitude": 37.9718263,
+        "Longitude": -122.5142593
+    },
+    {
+        "County": "El Dorado",
+        "EVPopulation": 1,
+        "Latitude": 38.853407,
+        "Longitude": -120.015701
+    },
+    {
+        "County": "Washoe",
+        "EVPopulation": 2,
+        "Latitude": 39.610261,
+        "Longitude": -119.704411
+    },
+    {
+        "County": "Tooele",
+        "EVPopulation": 1,
+        "Latitude": 40.5664923,
+        "Longitude": -112.2957843
+    },
+    {
+        "County": "Travis",
+        "EVPopulation": 1,
+        "Latitude": 30.5589571,
+        "Longitude": -97.8755601
+    },
+    {
+        "County": "Santa Barbara",
+        "EVPopulation": 1,
+        "Latitude": 34.65098,
+        "Longitude": -120.454407
+    },
+    {
+        "County": "Kent",
+        "EVPopulation": 2,
+        "Latitude": 39.167085,
+        "Longitude": -75.518714
+    },
+    {
+        "County": "Albemarle",
+        "EVPopulation": 2,
+        "Latitude": 38.0871315,
+        "Longitude": -78.5089088
+    },
+    {
+        "County": "Pitt",
+        "EVPopulation": 1,
+        "Latitude": 35.5364656,
+        "Longitude": -77.3990581
+    },
+    {
+        "County": "Sarasota",
+        "EVPopulation": 1,
+        "Latitude": 27.2645496,
+        "Longitude": -82.5426978
+    },
+    {
+        "County": "Harford",
+        "EVPopulation": 3,
+        "Latitude": 39.4944311,
+        "Longitude": -76.1438888
+    },
+    {
+        "County": "Santa Cruz",
+        "EVPopulation": 1,
+        "Latitude": 36.974825,
+        "Longitude": -121.99185
+    },
+    {
+        "County": "Alameda",
+        "EVPopulation": 6,
+        "Latitude": 37.8688863,
+        "Longitude": -122.2968579
+    },
+    {
+        "County": "Atlantic",
+        "EVPopulation": 1,
+        "Latitude": 39.3964835,
+        "Longitude": -74.5917115
+    },
+    {
+        "County": "Lake",
+        "EVPopulation": 5,
+        "Latitude": 42.285826,
+        "Longitude": -87.948577
+    },
+    {
+        "County": "Saratoga",
+        "EVPopulation": 2,
+        "Latitude": 43.078746,
+        "Longitude": -73.773944
+    },
+    {
+        "County": "Kootenai",
+        "EVPopulation": 3,
+        "Latitude": 47.7272526,
+        "Longitude": -116.9427449
+    },
+    {
+        "County": "New Castle",
+        "EVPopulation": 1,
+        "Latitude": 39.398607,
+        "Longitude": -75.685514
+    },
+    {
+        "County": "Arapahoe",
+        "EVPopulation": 3,
+        "Latitude": 39.7143436,
+        "Longitude": -104.6931439
+    },
+    {
+        "County": "Tarrant",
+        "EVPopulation": 3,
+        "Latitude": 32.834422,
+        "Longitude": -97.146894
+    },
+    {
+        "County": "San Francisco",
+        "EVPopulation": 1,
+        "Latitude": 37.775147,
+        "Longitude": -122.397505
+    },
+    {
+        "County": "Alexandria",
+        "EVPopulation": 3,
+        "Latitude": 38.8073702,
+        "Longitude": -77.0555597
+    },
+    {
+        "County": "DuPage",
+        "EVPopulation": 3,
+        "Latitude": 41.8841611,
+        "Longitude": -88.2062991
+    },
+    {
+        "County": "Middlesex",
+        "EVPopulation": 4,
+        "Latitude": 42.4570299,
+        "Longitude": -71.2766209
+    },
+    {
+        "County": "Cook",
+        "EVPopulation": 2,
+        "Latitude": 42.038087,
+        "Longitude": -87.756443
+    },
+    {
+        "County": "Pulaski",
+        "EVPopulation": 5,
+        "Latitude": 34.7693704,
+        "Longitude": -92.3452839
+    },
+    {
+        "County": "Hudson",
+        "EVPopulation": 2,
+        "Latitude": 40.7217505,
+        "Longitude": -74.0439246
+    },
+    {
+        "County": "Anchorage",
+        "EVPopulation": 1,
+        "Latitude": 61.3188216,
+        "Longitude": -149.5455419
+    },
+    {
+        "County": "Hennepin",
+        "EVPopulation": 1,
+        "Latitude": 44.946592,
+        "Longitude": -93.288289
+    },
+    {
+        "County": "St. Louis",
+        "EVPopulation": 1,
+        "Latitude": 38.7451364,
+        "Longitude": -90.2165108
+    },
+    {
+        "County": "Pinal",
+        "EVPopulation": 2,
+        "Latitude": 33.4132771,
+        "Longitude": -111.5184077
+    },
+    {
+        "County": "Prince William",
+        "EVPopulation": 6,
+        "Latitude": 38.763617,
+        "Longitude": -77.440737
+    },
+    {
+        "County": "Harnett",
+        "EVPopulation": 5,
+        "Latitude": 35.2360252,
+        "Longitude": -78.9592407
+    },
+    {
+        "County": "Muscogee",
+        "EVPopulation": 4,
+        "Latitude": 32.3658211,
+        "Longitude": -84.9387736
+    },
+    {
+        "County": "Hardin",
+        "EVPopulation": 2,
+        "Latitude": 37.7591554,
+        "Longitude": -85.9951028
+    },
+    {
+        "County": "Richland",
+        "EVPopulation": 1,
+        "Latitude": 33.9350984,
+        "Longitude": -80.8482692
+    },
+    {
+        "County": "Placer",
+        "EVPopulation": 2,
+        "Latitude": 38.741072,
+        "Longitude": -121.249098
+    },
+    {
+        "County": "Burlington",
+        "EVPopulation": 1,
+        "Latitude": 40.036594,
+        "Longitude": -74.583478
+    },
+    {
+        "County": "Plaquemines",
+        "EVPopulation": 1,
+        "Latitude": 29.8300138,
+        "Longitude": -90.005387
+    },
+    {
+        "County": "Chesapeake",
+        "EVPopulation": 2,
+        "Latitude": 36.8223986,
+        "Longitude": -76.4177819
+    },
+    {
+        "County": "Suffolk",
+        "EVPopulation": 2,
+        "Latitude": 36.8624693,
+        "Longitude": -76.4531992
+    },
+    {
+        "County": "New Haven",
+        "EVPopulation": 2,
+        "Latitude": 41.313697,
+        "Longitude": -72.610716
+    },
+    {
+        "County": "Lane",
+        "EVPopulation": 1,
+        "Latitude": 44.058912,
+        "Longitude": -123.014874
+    },
+    {
+        "County": "Rockingham",
+        "EVPopulation": 1,
+        "Latitude": 43.0827061,
+        "Longitude": -70.7432164
+    },
+    {
+        "County": "Rockdale",
+        "EVPopulation": 1,
+        "Latitude": 33.6255758,
+        "Longitude": -83.9821302
+    },
+    {
+        "County": "Salt Lake",
+        "EVPopulation": 3,
+        "Latitude": 40.7143473,
+        "Longitude": -111.8925277
+    },
+    {
+        "County": "New London",
+        "EVPopulation": 6,
+        "Latitude": 41.42546,
+        "Longitude": -72.064353
+    },
+    {
+        "County": "Otero",
+        "EVPopulation": 1,
+        "Latitude": 32.8350456,
+        "Longitude": -106.0794796
+    },
+    {
+        "County": "Philadelphia",
+        "EVPopulation": 1,
+        "Latitude": 40.0396529,
+        "Longitude": -75.0663477
+    },
+    {
+        "County": "St. Charles",
+        "EVPopulation": 1,
+        "Latitude": 38.7503201,
+        "Longitude": -90.7320802
+    },
+    {
+        "County": "Pima",
+        "EVPopulation": 1,
+        "Latitude": 32.3050619,
+        "Longitude": -110.9156341
+    },
+    {
+        "County": "Howard",
+        "EVPopulation": 2,
+        "Latitude": 39.242016,
+        "Longitude": -77.000227
+    },
+    {
+        "County": "St. Mary's",
+        "EVPopulation": 2,
+        "Latitude": 38.2561309,
+        "Longitude": -76.4583767
+    },
+    {
+        "County": "Kauai",
+        "EVPopulation": 1,
+        "Latitude": 21.9701404,
+        "Longitude": -159.7126127
+    },
+    {
+        "County": "Frederick",
+        "EVPopulation": 1,
+        "Latitude": 39.44396,
+        "Longitude": -77.550327
+    },
+    {
+        "County": "Yuba",
+        "EVPopulation": 1,
+        "Latitude": 39.1203191,
+        "Longitude": -121.3847971
+    },
+    {
+        "County": "Denton",
+        "EVPopulation": 1,
+        "Latitude": 33.1768139,
+        "Longitude": -96.951223
+    },
+    {
+        "County": "Washtenaw",
+        "EVPopulation": 1,
+        "Latitude": 42.2783264,
+        "Longitude": -83.7802184
+    },
+    {
+        "County": "Bay",
+        "EVPopulation": 1,
+        "Latitude": 30.192846,
+        "Longitude": -85.662334
+    },
+    {
+        "County": "Beaufort",
+        "EVPopulation": 1,
+        "Latitude": 32.3103139,
+        "Longitude": -80.9286463
+    },
+    {
+        "County": "Calvert",
+        "EVPopulation": 2,
+        "Latitude": 38.6673816,
+        "Longitude": -76.5366239
+    },
+    {
+        "County": "Champaign",
+        "EVPopulation": 1,
+        "Latitude": 40.0985139,
+        "Longitude": -88.2990407
+    },
+    {
+        "County": "Tom Green",
+        "EVPopulation": 1,
+        "Latitude": 31.3928668,
+        "Longitude": -100.4861349
+    },
+    {
+        "County": "St. Lawrence",
+        "EVPopulation": 1,
+        "Latitude": 44.685464,
+        "Longitude": -75.494183
+    },
+    {
+        "County": "Brown",
+        "EVPopulation": 1,
+        "Latitude": 44.5574289,
+        "Longitude": -88.1016707
+    },
+    {
+        "County": "Palm Beach",
+        "EVPopulation": 1,
+        "Latitude": 26.346203,
+        "Longitude": -80.084359
+    },
+    {
+        "County": "Lee",
+        "EVPopulation": 1,
+        "Latitude": 32.5338952,
+        "Longitude": -85.1007648
+    },
+    {
+        "County": "Sedgwick",
+        "EVPopulation": 1,
+        "Latitude": 37.5591265,
+        "Longitude": -97.2466993
+    },
+    {
+        "County": "Essex",
+        "EVPopulation": 2,
+        "Latitude": 40.8016761,
+        "Longitude": -74.1921773
+    },
+    {
+        "County": "Lexington",
+        "EVPopulation": 1,
+        "Latitude": 34.07731,
+        "Longitude": -81.180844
+    },
+    {
+        "County": "Portsmouth",
+        "EVPopulation": 2,
+        "Latitude": 36.836325,
+        "Longitude": -76.344027
+    },
+    {
+        "County": "Bell",
+        "EVPopulation": 2,
+        "Latitude": 31.078843,
+        "Longitude": -97.7840334
+    },
+    {
+        "County": "Yolo",
+        "EVPopulation": 3,
+        "Latitude": 38.5543093,
+        "Longitude": -121.7082204
+    },
+    {
+        "County": "San Bernardino",
+        "EVPopulation": 3,
+        "Latitude": 35.2618843,
+        "Longitude": -116.6984466
+    },
+    {
+        "County": "Nueces",
+        "EVPopulation": 2,
+        "Latitude": 27.6650473,
+        "Longitude": -97.3695925
+    },
+    {
+        "County": "Davis",
+        "EVPopulation": 1,
+        "Latitude": 41.116978,
+        "Longitude": -111.998808
+    },
+    {
+        "County": "Kern",
+        "EVPopulation": 2,
+        "Latitude": 34.9346564,
+        "Longitude": -117.9411015
+    },
+    {
+        "County": "Galveston",
+        "EVPopulation": 1,
+        "Latitude": 29.4659041,
+        "Longitude": -95.0352771
+    },
+    {
+        "County": "Chesterfield",
+        "EVPopulation": 1,
+        "Latitude": 37.476002,
+        "Longitude": -77.57844
+    },
+    {
+        "County": "Shelby",
+        "EVPopulation": 1,
+        "Latitude": 33.111262,
+        "Longitude": -86.7506989
+    },
+    {
+        "County": "Prince George",
+        "EVPopulation": 1,
+        "Latitude": 37.2320615,
+        "Longitude": -77.3333624
+    },
+    {
+        "County": "Larimer",
+        "EVPopulation": 1,
+        "Latitude": 40.5166002,
+        "Longitude": -104.9659564
+    },
+    {
+        "County": "Caddo",
+        "EVPopulation": 2,
+        "Latitude": 32.4283259,
+        "Longitude": -93.7472183
+    },
+    {
+        "County": "Houston",
+        "EVPopulation": 1,
+        "Latitude": 32.6127357,
+        "Longitude": -83.5902097
+    },
+    {
+        "County": "Williamson",
+        "EVPopulation": 1,
+        "Latitude": 30.4901708,
+        "Longitude": -97.7723498
+    },
+    {
+        "County": "Meade",
+        "EVPopulation": 1,
+        "Latitude": 37.897498,
+        "Longitude": -85.957126
+    },
+    {
+        "County": "Duval",
+        "EVPopulation": 1,
+        "Latitude": 30.215505,
+        "Longitude": -81.811626
+    },
+    {
+        "County": "Currituck",
+        "EVPopulation": 1,
+        "Latitude": 36.5125625,
+        "Longitude": -76.1401529
+    },
+    {
+        "County": "Cuyahoga",
+        "EVPopulation": 1,
+        "Latitude": 41.4488583,
+        "Longitude": -81.9236021
+    },
+    {
+        "County": "San Joaquin",
+        "EVPopulation": 1,
+        "Latitude": 38.1295939,
+        "Longitude": -121.3146115
+    },
+    {
+        "County": "Carroll",
+        "EVPopulation": 1,
+        "Latitude": 39.555279,
+        "Longitude": -76.988282
+    },
+    {
+        "County": "Newport News",
+        "EVPopulation": 1,
+        "Latitude": 37.117004,
+        "Longitude": -76.516165
+    },
+    {
+        "County": "Brevard",
+        "EVPopulation": 1,
+        "Latitude": 28.071489,
+        "Longitude": -80.670667
+    },
+    {
+        "County": "Gwinnett",
+        "EVPopulation": 1,
+        "Latitude": 34.1311559,
+        "Longitude": -83.7996876
+    },
+    {
+        "County": "Rock Island",
+        "EVPopulation": 1,
+        "Latitude": 41.489413,
+        "Longitude": -90.569294
+    },
+    {
+        "County": "Bexar",
+        "EVPopulation": 3,
+        "Latitude": 29.4104606,
+        "Longitude": -98.7117552
+    },
+    {
+        "County": "Utah",
+        "EVPopulation": 1,
+        "Latitude": 40.1624243,
+        "Longitude": -111.6058085
+    },
+    {
+        "County": "Fresno",
+        "EVPopulation": 1,
+        "Latitude": 36.8045172,
+        "Longitude": -119.9097527
+    },
+    {
+        "County": "Fredericksburg",
+        "EVPopulation": 1,
+        "Latitude": 38.2994953,
+        "Longitude": -77.4782552
+    },
+    {
+        "County": "Williamsburg",
+        "EVPopulation": 1,
+        "Latitude": 37.260804,
+        "Longitude": -76.713803
+    },
+    {
+        "County": "Cameron",
+        "EVPopulation": 1,
+        "Latitude": 25.9184105,
+        "Longitude": -97.4471558
+    },
+    {
+        "County": "Tippecanoe",
+        "EVPopulation": 1,
+        "Latitude": 40.4128094,
+        "Longitude": -86.8301731
+    },
+    {
+        "County": "Christian",
+        "EVPopulation": 1,
+        "Latitude": 37.009399,
+        "Longitude": -93.213744
+    }
+]

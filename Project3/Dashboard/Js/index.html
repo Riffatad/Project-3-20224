@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EV Dashboard</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+        }
+
+        .dropdown-row {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+            justify-content: space-between;
+        }
+
+        .dropdown-row select {
+            padding: 8px;
+            font-size: 16px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            background-color: #ecf0f1;
+            font-weight: bold;
+        }
+
+        .metadata-container {
+            margin-top: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #ffffff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .chart {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 15px;
+            border-radius: 10px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Electric Vehicle Dashboard 2019 to 2023</h1>
+
+    <!-- Dropdowns in a single row -->
+    <div class="dropdown-row">
+        <div>
+            <label for="vin1">Select VIN 1:</label>
+            <select id="vin1" onchange="handleVinChange()"></select>
+            <div id="metadata1" class="metadata-container"></div>
+        </div>
+        <div>
+            <label for="vin2">Select VIN 2:</label>
+            <select id="vin2" onchange="handleVinChange()"></select>
+            <div id="metadata2" class="metadata-container"></div>
+        </div>
+        <div>
+            <label for="vin3">Select VIN 3:</label>
+            <select id="vin3" onchange="handleVinChange()"></select>
+            <div id="metadata3" class="metadata-container"></div>
+        </div>
+        <div>
+            <label for="vin4">Select VIN 4:</label>
+            <select id="vin4" onchange="handleVinChange()"></select>
+            <div id="metadata4" class="metadata-container"></div>
+        </div>
+        <div>
+            <label for="vin5">Select VIN 5:</label>
+            <select id="vin5" onchange="handleVinChange()"></select>
+            <div id="metadata5" class="metadata-container"></div>
+        </div>
+    </div>
+
+    <!-- Bar Chart -->
+    <div id="bar" class="chart"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
